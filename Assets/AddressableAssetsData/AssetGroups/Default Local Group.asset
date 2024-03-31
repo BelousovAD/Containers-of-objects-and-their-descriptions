@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: f55eaa2a4112e864ca3dec2ac17c3e63
+  m_SerializeEntries:
+  - m_GUID: bc93777eb99e7b44683a074a5c16224e
+    m_Address: Assets/ExamplePlayer/PlayerData/Owl.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Owl
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 78730a5aa70180446bcc04759541944c
+    m_Address: Assets/ExamplePlayer/PlayerData/Player.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Player
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b35bb97b30115bd4db04d5e803ce15ce
+    m_Address: Assets/ExamplePlayer/PlayerData/Snake.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Snake
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 138836d2076948849b47f29358fcd243
+    m_Address: Assets/ExamplePlayer/PlayerData/Bird.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Bird
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d287ee0929558d548b3b72b252718b18
+    m_Address: Assets/ExamplePlayer/PlayerData/Slime.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Slime
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 36f9e4dfa4a9f7d4aba2b3b74c781b26
+    m_Address: Assets/ExamplePlayer/PlayerInfosBundle.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 655c9e1aaad1229458d13653049683e5, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 74b4c49b49f30f8438628ed20f8ce310, type: 2}
+    - {fileID: 11400000, guid: 5787e3897bd45504a9efee1a2cec2fe8, type: 2}
