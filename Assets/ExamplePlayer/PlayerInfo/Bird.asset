@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 08434293e533ef24d8951152c80bc734, type: 3}
+  m_Name: Bird
+  m_EditorClassIdentifier: 
+  _sprite: {fileID: 21300000, guid: 8c00f0d827823b44996af18542fda901, type: 3}
+  _playerData:
+    m_AssetGUID: 138836d2076948849b47f29358fcd243
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
